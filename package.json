@@ -1,0 +1,14 @@
+{
+  "name": "node-notflix",
+  "version": "1.0.0",
+  "main": "notflix.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL3",
+  "description": "",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
