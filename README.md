@@ -18,11 +18,15 @@ For scraping script use node-fetch and regex.
 * [nodejs](https://nodejs.org/en/)
 * [peerflix](https://github.com/mafintosh/peerflix) - A tool to stream torrent. `sudo npm install peerflix -g`
 
+### NPM modules
+* fetch
+* 
 ## Installation
 
 ```sh
-$ npm install
 $ git clone https://github.com/Johannes7k75/node-notflix
+$ cd node-netflix
+$ npm install
 ```
 - To update just do `git pull`
 
