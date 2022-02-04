@@ -19,8 +19,8 @@ For scraping script use node-fetch and regex.
 * [peerflix](https://github.com/mafintosh/peerflix) - A tool to stream torrent. `sudo npm install peerflix -g`
 
 ### NPM modules
-* fetch
-* 
+* node-fetch
+* clivas  
 ## Installation
 
 ```sh
