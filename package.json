@@ -2,9 +2,9 @@
   "name": "node-notflix",
   "description": "A node variant of notflix",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "notflix.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node notflix.js"
   },
   "keywords": [
   	"cli",
