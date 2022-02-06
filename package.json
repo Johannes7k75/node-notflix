@@ -1,12 +1,17 @@
 {
   "name": "node-notflix",
-  "version": "1.0.2",
-  "main": "notflix.js",
-  "scripts": {},
-  "keywords": [],
+  "description": "A node variant of notflix",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+  	"cli",
+  	"notflix"
+  ],
   "author": "",
   "license": "GPL3",
-  "description": "",
   "dependencies": {
     "clivas": "^0.2.0",
     "node-fetch": "^2.6.7"
